@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Visit deployed application by the link below
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Application is deployed using GitHub Pages: [Kinopoisk clone](https://azheleznaya.github.io/TMS-diploma-Kinopoisk-clone/).
 
 ## Available Scripts
 
